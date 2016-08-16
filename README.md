@@ -1,3 +1,3 @@
-# Terminalogy
+# SeedDial
 
-A list of commonly used commands and aliases for your terminal.
+Website for SpeedDial app
